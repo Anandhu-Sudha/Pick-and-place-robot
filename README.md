@@ -3,7 +3,7 @@ A Pick and Place robot i couldn't finish
 
 #throwback-march-2024
 
-<image src= "https://github.com/Anandhu-Sudha/Pick-and-place-robot/blob/8a10f2132211e91b56323f94965f5ea6b5c64a09/final2.jpg" width="400" height ="800"/>
+![image alt](https://github.com/Anandhu-Sudha/Pick-and-place-robot/blob/8a10f2132211e91b56323f94965f5ea6b5c64a09/final2.jpg)
 
 Since I only had limited access to 3D printing but I wanted to create a pick n place robot arm. The possible option I had was try to replicate the 3D structure on some materials I have access to, there was some Forex sheet lying around and I tried to make the robotic arms with this sheet. I couldn't finish the project due to lack of time, components & budget. But here's the project with the Claw part. 
 
