@@ -1,5 +1,5 @@
 # Pick-and-place-robot
-A Pick and Place robot i couldn't finish 
+A Pick and Place robot i couldn't finish. 
 
 #throwback-march-2024
 
